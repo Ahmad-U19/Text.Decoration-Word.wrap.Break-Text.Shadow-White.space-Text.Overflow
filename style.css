@@ -1,0 +1,14 @@
+h1{
+    text-decoration: underline red wavy;
+    text-shadow: 2px 2px 5px green;
+}
+
+#Box{
+    width: 400px;
+    border: 1px solid green;
+    word-wrap: break-word;
+    word-break: break-all;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: " --- ";
+}
